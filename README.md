@@ -19,10 +19,11 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=danilofrazao-dev&show_icons=true&theme=dark)
 
-### 📫 Como chegar até mim
+### 📫 Como chegar até mim / Apoie
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/danilofrazao-dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/danilofrazao-dev)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-laystorages-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/laystorages)
 
 ---
 
